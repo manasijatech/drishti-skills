@@ -1,0 +1,15 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Drishti Market Workflows",
+      "description": "Skills for Indian-equity earnings, concall, and event workflows using Drishti MCP.",
+      "skills": [
+        "earnings-deep-dive",
+        "event-calendar",
+        "upcoming-earnings-calendar"
+      ]
+    }
+  ]
+}
