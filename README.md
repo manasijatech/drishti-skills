@@ -1,6 +1,6 @@
-# Drishti MCP Skills
+# Drishti Skills
 
-[![skills.sh](https://skills.sh/b/manasijatech/drishti-mcp-skills)](https://skills.sh/manasijatech/drishti-mcp-skills)
+[![skills.sh](https://skills.sh/b/manasijatech/drishti-skills)](https://skills.sh/manasijatech/drishti-skills)
 
 Reusable agent skills for Indian-equity research workflows powered by Drishti MCP.
 
@@ -21,13 +21,13 @@ npx skills add manasijatech/drishti-skills
 List available skills without installing:
 
 ```bash
-npx skills add manasijatech/drishti-mcp-skills --list
+npx skills add manasijatech/drishti-skills --list
 ```
 
 Install a specific skill:
 
 ```bash
-npx skills add manasijatech/drishti-mcp-skills --skill earnings-deep-dive
+npx skills add manasijatech/drishti-skills --skill earnings-deep-dive
 ```
 
 ## skills.sh
