@@ -6,6 +6,7 @@
       "title": "Drishti Market Workflows",
       "description": "Skills for Indian-equity earnings, concall, and event workflows using Drishti MCP.",
       "skills": [
+        "quick-stock-analysis",
         "earnings-deep-dive",
         "event-calendar",
         "upcoming-earnings-calendar"

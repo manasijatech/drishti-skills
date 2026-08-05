@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quick Stock Analysis"
+  short_description: "First-pass listed-company research triage"
+  default_prompt: "Use $quick-stock-analysis to assess whether a listed company deserves deeper research."

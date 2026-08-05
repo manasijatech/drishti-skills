@@ -6,6 +6,7 @@ Reusable agent skills for Indian-equity research workflows powered by Drishti MC
 
 ## Skills
 
+- `quick-stock-analysis`: run a 10-15 minute first-pass listed-company screen across business quality, financials, current context, valuation, risks, catalysts, and investor-style fit.
 - `earnings-deep-dive`: analyze reported Indian listed company earnings with filings, concalls, announcements, news, and event context.
 - `event-calendar`: build sourced Indian-equity event calendars across earnings, concalls, board meetings, corporate actions, and filings.
 - `upcoming-earnings-calendar`: build upcoming Indian-equity earnings/result schedules with source confidence and market context.
@@ -27,7 +28,7 @@ npx skills add manasijatech/drishti-skills --list
 Install a specific skill:
 
 ```bash
-npx skills add manasijatech/drishti-skills --skill earnings-deep-dive
+npx skills add manasijatech/drishti-skills --skill quick-stock-analysis
 ```
 
 ## skills.sh
