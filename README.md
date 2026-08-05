@@ -1,6 +1,5 @@
 # Drishti Skills
 
-[![skills.sh](https://skills.sh/b/manasijatech/drishti-skills)](https://skills.sh/manasijatech/drishti-skills)
 
 Reusable agent skills for researching Indian listed companies with Drishti MCP.
 The workflows keep reported facts, management commentary, and analyst
