@@ -6,6 +6,11 @@ The workflows keep reported facts, management commentary, and analyst
 interpretation separate. They do not provide buy, sell, hold, allocation, or
 target-price advice.
 
+[Drishti](https://drishti.manasija.in) provides Indian-equities market
+intelligence through an MCP server: company context, exchange filings,
+announcements, earnings, conference calls, news, events, and market data. These
+skills show how to turn that source material into repeatable research workflows.
+
 ## Included Skills
 
 | Skill | Use it for |
@@ -45,6 +50,8 @@ install either workflow individually.
 - Connect Drishti MCP before researching an Indian listed company. The skills
   read the active Drishti data instructions before choosing tools and do not
   assume a fixed tool schema.
+- Start with the [Drishti MCP guide](https://drishti.manasija.in/docs/guides/drishti-mcp)
+  to connect a compatible client and configure access.
 - Provide a company name or ticker. Add the exchange or another identifier when
   the security may be ambiguous.
 - For `quick-stock-analysis`, make a fundamentals source available for
